@@ -42,7 +42,51 @@ This project also won the **Third place** out of **35** projects submitted in ou
 
 ## Screenshots
 
-(Add screenshots of your login page, homepage, EMI calculator, goals page)
+### Login Page
+![Login](screenshots/LOGIN.png)
+
+### Sign Up Page
+![Sign Up](screenshots/SIGNUP.png)
+
+### Home Page
+![Home Page](screenshots/HOMEPAGE.png)
+
+### Login Page
+![Login Page](screenshots/LOGIN.png)
+
+### Add Goals
+![Add Goals](screenshots/ADDGOALS.png)
+
+### Financial Plan
+![Financial Plan](screenshots/FINANCIALPLAN.png)
+
+### Shorter Financial Plan
+![Shorter Financial Plan](screenshots/SHORTERPLAN.png)
+
+### Financial website 1
+![Financial website 1](screenshots/FINANCIALWEBSITE1.png)
+
+### Financial website 2
+![Financial website 2](screenshots/FINANCIALWEBSITE2.png)
+
+### Financial Plan With EMI
+![Financial Plan With EMI](screenshots/FINACIALPLANWITHEMI.png)
+
+### Saved Plan
+![Saved Plan](screenshots/SAVEDPLAN.png)
+
+### EMI Calculator
+![EMI Calculator](screenshots/EMICALCULATOR.png)
+
+### EMI Options
+![EMI Options](screenshots/EMIOPTIONS.png)
+
+### Personal Information
+![Personal Information](screenshots/PERSONALINFO.png)
+
+### Terms & Conditions
+![Terms & Conditions](screenshots/TERMS&CONDITIONS.png)
+
 
 ---
 
