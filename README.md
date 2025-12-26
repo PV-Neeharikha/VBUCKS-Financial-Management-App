@@ -52,9 +52,11 @@ This project also won the **Third place** out of **35** projects submitted in ou
    ```bash
    git clone https://github.com/your-username/VBUCKS-Financial-Management-App.git
 2. Install dependencies:
+   ```bash
     pip install -r requirements.txt
 3. Setup MySQL database:
     Create a database named Budget1
     Update MySQL credentials in MAIN CODE.py
 4. Run the application:
+   ```bash
     python MAIN CODE.py
